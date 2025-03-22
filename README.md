@@ -8,3 +8,4 @@ Predict number of people who survived from the titanic disaster.
 try try try
 ok try everything u wanna do, i'll help you
 ok let's try
+more
