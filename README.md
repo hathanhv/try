@@ -10,3 +10,5 @@ ok try everything u wanna do, i'll help you
 ok let's try
 more
 
+Have fun!!
+Have fun!!!!!!
