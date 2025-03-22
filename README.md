@@ -6,3 +6,4 @@ Predict number of people who survived from the titanic disaster.
     I classificate category and numeric
 
 try try try
+ok try everything u wanna do, i'll help you
