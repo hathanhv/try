@@ -5,4 +5,4 @@ Predict number of people who survived from the titanic disaster.
     Sex, Pclass, Embarked, Fare, Age, Family(SibSp, Parch)
     I classificate category and numeric
 
-I want to try more
+try try try
